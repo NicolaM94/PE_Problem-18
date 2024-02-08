@@ -17,6 +17,4 @@ fun main () {
     wins.PrintFinals()
     wins.ActualWinnerChain()
     wins.TotalSum()
-
-
 }
